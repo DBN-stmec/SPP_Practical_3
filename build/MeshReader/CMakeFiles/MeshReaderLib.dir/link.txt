@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMeshReaderLib.a CMakeFiles/MeshReaderLib.dir/list.cpp.o CMakeFiles/MeshReaderLib.dir/MeshFileReader.cpp.o CMakeFiles/MeshReaderLib.dir/objLoader.cpp.o CMakeFiles/MeshReaderLib.dir/obj_parser.cpp.o CMakeFiles/MeshReaderLib.dir/rtmLoader.cpp.o CMakeFiles/MeshReaderLib.dir/string_extra.cpp.o CMakeFiles/MeshReaderLib.dir/string_util.cpp.o
+/usr/bin/ranlib libMeshReaderLib.a

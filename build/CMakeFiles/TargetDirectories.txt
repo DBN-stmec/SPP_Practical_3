@@ -1,0 +1,11 @@
+/home/kurse/kurs00062/je59nuni/P3/build/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/CMakeFiles/CUDATracer.dir
+/home/kurse/kurs00062/je59nuni/P3/build/CMakeFiles/edit_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/BoundSphere/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/BoundSphere/CMakeFiles/BoundSphereLib.dir
+/home/kurse/kurs00062/je59nuni/P3/build/BoundSphere/CMakeFiles/edit_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/MeshReader/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/MeshReader/CMakeFiles/MeshReaderLib.dir
+/home/kurse/kurs00062/je59nuni/P3/build/MeshReader/CMakeFiles/edit_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/CUDATracing/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/P3/build/CUDATracing/CMakeFiles/edit_cache.dir

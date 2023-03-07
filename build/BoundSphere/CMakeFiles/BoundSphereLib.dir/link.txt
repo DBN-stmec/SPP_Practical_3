@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBoundSphereLib.a CMakeFiles/BoundSphereLib.dir/BoundSphereCreator.cpp.o CMakeFiles/BoundSphereLib.dir/Miniball.cpp.o CMakeFiles/BoundSphereLib.dir/Miniball_b.cpp.o
+/usr/bin/ranlib libBoundSphereLib.a
