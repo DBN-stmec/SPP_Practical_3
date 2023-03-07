@@ -1,0 +1,18 @@
+Instructions on lichtenbergcluster:
+
+Every time when you start the cluster:
+1. module load cuda
+2. module load cmake
+
+Run on login node:
+1. cd build
+2. cmake ..
+3. make -lineinfo
+4. compute-sanitizer ./CUDATracer 2 "CUDATracing/models/Venus.txt" 1
+
+Run on compute node:
+1. cd ..
+2. sbatch batch_job.sh
+3. squeue
+(mehrmals 'squeue' eingeben bis STATE FINISHED steht)
+(log... -Datei öffnen)
